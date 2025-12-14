@@ -1,7 +1,7 @@
 ---
 name: Mongo
 about: Описание алгоритмов работы с данными MongoDB и типовых паттернов агрегации.
-title: '[MongoDB] '
+title: '[MongoDB]'
 labels: ['MongoDB', 'mongo', 'stuff', 'github']
 assignees: []
 ---
